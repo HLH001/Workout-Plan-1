@@ -1,0 +1,85 @@
+Day,Workout_Focus,Exercises,Sets_Reps,Diet_Technique
+1,Glutes,"Squats, Glute Bridges, Donkey Kicks, Hip Thrusts",4 sets x 8-10 reps,
+2,Upper Body,"Push-ups, Dumbbell Press, Dumbbell Rows, Shoulder Press",4 sets x 8-10 reps,
+3,Core & Back,"Planks, Crunches, Russian Twists, Back Extensions",4 sets x 8-10 reps,
+4,Lower Body,"Lunges, Deadlifts, Step-Ups, Glute Bridges",4 sets x 8-10 reps,
+5,Full-Body,"Burpees, Squats, Push-ups, Deadlifts",4 sets x 8-10 reps,
+6,Glutes,"Hip Thrusts, Glute Bridges, Fire Hydrants, Single-Leg Deadlifts",4 sets x 8-10 reps,
+7,Active Recovery (Core & Pelvic),"Light cardio or yoga, Kegels, Bridges, Pelvic Tilts",Light/Bodyweight,
+8,Glutes,"Squats, Glute Bridges, Donkey Kicks, Hip Thrusts",4 sets x 15-20 reps,
+9,Upper Body,"Push-ups, Dumbbell Press, Dumbbell Rows, Shoulder Press",4 sets x 15-20 reps,
+10,Core & Back,"Planks, Crunches, Russian Twists, Back Extensions",4 sets x 15-20 reps,
+11,Lower Body,"Lunges, Deadlifts, Step-Ups, Glute Bridges",4 sets x 15-20 reps,
+12,Full-Body,"Burpees, Squats, Push-ups, Deadlifts",4 sets x 15-20 reps,
+13,Glutes,"Hip Thrusts, Glute Bridges, Fire Hydrants, Single-Leg Deadlifts",4 sets x 15-20 reps,
+14,Active Recovery (Core & Pelvic),"Light cardio or yoga, Kegels, Bridges, Pelvic Tilts",Light/Bodyweight,
+15,Glutes,"Squats, Glute Bridges, Donkey Kicks, Hip Thrusts",4 sets x 8-10 reps,
+16,Upper Body,"Push-ups, Dumbbell Press, Dumbbell Rows, Shoulder Press",4 sets x 8-10 reps,
+17,Core & Back,"Planks, Crunches, Russian Twists, Back Extensions",4 sets x 8-10 reps,
+18,Lower Body,"Lunges, Deadlifts, Step-Ups, Glute Bridges",4 sets x 8-10 reps,
+19,Full-Body,"Burpees, Squats, Push-ups, Deadlifts",4 sets x 8-10 reps,
+20,Glutes,"Hip Thrusts, Glute Bridges, Fire Hydrants, Single-Leg Deadlifts",4 sets x 8-10 reps,
+21,Active Recovery (Core & Pelvic),"Light cardio or yoga, Kegels, Bridges, Pelvic Tilts",Light/Bodyweight,
+22,Glutes,"Squats, Glute Bridges, Donkey Kicks, Hip Thrusts",4 sets x 15-20 reps,Intermittent Fasting (IF)
+23,Upper Body,"Push-ups, Dumbbell Press, Dumbbell Rows, Shoulder Press",4 sets x 15-20 reps,Long Fasting (LF)
+24,Core & Back,"Planks, Crunches, Russian Twists, Back Extensions",4 sets x 15-20 reps,75% Calorie Diet (0.75K)
+25,Lower Body,"Lunges, Deadlifts, Step-Ups, Glute Bridges",4 sets x 15-20 reps,Water Fasting (WF)
+26,Full-Body,"Burpees, Squats, Push-ups, Deadlifts",4 sets x 15-20 reps,50% Calorie Diet (0.5K)
+27,Glutes,"Hip Thrusts, Glute Bridges, Fire Hydrants, Single-Leg Deadlifts",4 sets x 15-20 reps,100% Calorie Diet (1K)
+28,Active Recovery (Core & Pelvic),"Light cardio or yoga, Kegels, Bridges, Pelvic Tilts",Light/Bodyweight,Long Fasting (LF)
+29,Glutes,"Squats, Glute Bridges, Donkey Kicks, Hip Thrusts",4 sets x 8-10 reps,Water Fasting (WF)
+30,Upper Body,"Push-ups, Dumbbell Press, Dumbbell Rows, Shoulder Press",4 sets x 8-10 reps,75% Calorie Diet (0.75K)
+31,Core & Back,"Planks, Crunches, Russian Twists, Back Extensions",4 sets x 8-10 reps,100% Calorie Diet (1K)
+32,Lower Body,"Lunges, Deadlifts, Step-Ups, Glute Bridges",4 sets x 8-10 reps,Intermittent Fasting (IF)
+33,Full-Body,"Burpees, Squats, Push-ups, Deadlifts",4 sets x 8-10 reps,50% Calorie Diet (0.5K)
+34,Glutes,"Hip Thrusts, Glute Bridges, Fire Hydrants, Single-Leg Deadlifts",4 sets x 8-10 reps,Long Fasting (LF)
+35,Active Recovery (Core & Pelvic),"Light cardio or yoga, Kegels, Bridges, Pelvic Tilts",Light/Bodyweight,75% Calorie Diet (0.75K)
+36,Glutes,"Squats, Glute Bridges, Donkey Kicks, Hip Thrusts",4 sets x 15-20 reps,Intermittent Fasting (IF)
+37,Upper Body,"Push-ups, Dumbbell Press, Dumbbell Rows, Shoulder Press",4 sets x 15-20 reps,50% Calorie Diet (0.5K)
+38,Core & Back,"Planks, Crunches, Russian Twists, Back Extensions",4 sets x 15-20 reps,Water Fasting (WF)
+39,Lower Body,"Lunges, Deadlifts, Step-Ups, Glute Bridges",4 sets x 15-20 reps,100% Calorie Diet (1K)
+40,Full-Body,"Burpees, Squats, Push-ups, Deadlifts",4 sets x 15-20 reps,Long Fasting (LF)
+41,Glutes,"Hip Thrusts, Glute Bridges, Fire Hydrants, Single-Leg Deadlifts",4 sets x 15-20 reps,Intermittent Fasting (IF)
+42,Active Recovery (Core & Pelvic),"Light cardio or yoga, Kegels, Bridges, Pelvic Tilts",Light/Bodyweight,75% Calorie Diet (0.75K)
+43,Glutes,"Squats, Glute Bridges, Donkey Kicks, Hip Thrusts",4 sets x 8-10 reps,Water Fasting (WF)
+44,Upper Body,"Push-ups, Dumbbell Press, Dumbbell Rows, Shoulder Press",4 sets x 8-10 reps,50% Calorie Diet (0.5K)
+45,Core & Back,"Planks, Crunches, Russian Twists, Back Extensions",4 sets x 8-10 reps,Long Fasting (LF)
+46,Lower Body,"Lunges, Deadlifts, Step-Ups, Glute Bridges",4 sets x 8-10 reps,100% Calorie Diet (1K)
+47,Full-Body,"Burpees, Squats, Push-ups, Deadlifts",4 sets x 8-10 reps,Intermittent Fasting (IF)
+48,Glutes,"Hip Thrusts, Glute Bridges, Fire Hydrants, Single-Leg Deadlifts",4 sets x 8-10 reps,Water Fasting (WF)
+49,Active Recovery (Core & Pelvic),"Light cardio or yoga, Kegels, Bridges, Pelvic Tilts",Light/Bodyweight,50% Calorie Diet (0.5K)
+50,Glutes,"Squats, Glute Bridges, Donkey Kicks, Hip Thrusts",4 sets x 15-20 reps,100% Calorie Diet (1K)
+51,Upper Body,"Push-ups, Dumbbell Press, Dumbbell Rows, Shoulder Press",4 sets x 15-20 reps,Intermittent Fasting (IF)
+52,Core & Back,"Planks, Crunches, Russian Twists, Back Extensions",4 sets x 15-20 reps,Long Fasting (LF)
+53,Lower Body,"Lunges, Deadlifts, Step-Ups, Glute Bridges",4 sets x 15-20 reps,Water Fasting (WF)
+54,Full-Body,"Burpees, Squats, Push-ups, Deadlifts",4 sets x 15-20 reps,75% Calorie Diet (0.75K)
+55,Glutes,"Hip Thrusts, Glute Bridges, Fire Hydrants, Single-Leg Deadlifts",4 sets x 15-20 reps,50% Calorie Diet (0.5K)
+56,Active Recovery (Core & Pelvic),"Light cardio or yoga, Kegels, Bridges, Pelvic Tilts",Light/Bodyweight,Long Fasting (LF)
+57,Glutes,"Squats, Glute Bridges, Donkey Kicks, Hip Thrusts",4 sets x 8-10 reps,Water Fasting (WF)
+58,Upper Body,"Push-ups, Dumbbell Press, Dumbbell Rows, Shoulder Press",4 sets x 8-10 reps,50% Calorie Diet (0.5K)
+59,Core & Back,"Planks, Crunches, Russian Twists, Back Extensions",4 sets x 8-10 reps,100% Calorie Diet (1K)
+60,Lower Body,"Lunges, Deadlifts, Step-Ups, Glute Bridges",4 sets x 8-10 reps,Intermittent Fasting (IF)
+61,Full-Body,"Burpees, Squats, Push-ups, Deadlifts",4 sets x 8-10 reps,Long Fasting (LF)
+62,Glutes,"Hip Thrusts, Glute Bridges, Fire Hydrants, Single-Leg Deadlifts",4 sets x 8-10 reps,Water Fasting (WF)
+63,Active Recovery (Core & Pelvic),"Light cardio or yoga, Kegels, Bridges, Pelvic Tilts",Light/Bodyweight,75% Calorie Diet (0.75K)
+64,Glutes,"Squats, Glute Bridges, Donkey Kicks, Hip Thrusts",4 sets x 15-20 reps,50% Calorie Diet (0.5K)
+65,Upper Body,"Push-ups, Dumbbell Press, Dumbbell Rows, Shoulder Press",4 sets x 15-20 reps,Long Fasting (LF)
+66,Core & Back,"Planks, Crunches, Russian Twists, Back Extensions",4 sets x 15-20 reps,Intermittent Fasting (IF)
+67,Lower Body,"Lunges, Deadlifts, Step-Ups, Glute Bridges",4 sets x 15-20 reps,100% Calorie Diet (1K)
+68,Full-Body,"Burpees, Squats, Push-ups, Deadlifts",4 sets x 15-20 reps,Water Fasting (WF)
+69,Glutes,"Hip Thrusts, Glute Bridges, Fire Hydrants, Single-Leg Deadlifts",4 sets x 15-20 reps,75% Calorie Diet (0.75K)
+70,Active Recovery (Core & Pelvic),"Light cardio or yoga, Kegels, Bridges, Pelvic Tilts",Light/Bodyweight,50% Calorie Diet (0.5K)
+71,Glutes,"Squats, Glute Bridges, Donkey Kicks, Hip Thrusts",4 sets x 8-10 reps,Intermittent Fasting (IF)
+72,Upper Body,"Push-ups, Dumbbell Press, Dumbbell Rows, Shoulder Press",4 sets x 8-10 reps,Water Fasting (WF)
+73,Core & Back,"Planks, Crunches, Russian Twists, Back Extensions",4 sets x 8-10 reps,Long Fasting (LF)
+74,Lower Body,"Lunges, Deadlifts, Step-Ups, Glute Bridges",4 sets x 8-10 reps,50% Calorie Diet (0.5K)
+75,Full-Body,"Burpees, Squats, Push-ups, Deadlifts",4 sets x 8-10 reps,75% Calorie Diet (0.75K)
+76,Glutes,"Hip Thrusts, Glute Bridges, Fire Hydrants, Single-Leg Deadlifts",4 sets x 8-10 reps,100% Calorie Diet (1K)
+77,Active Recovery (Core & Pelvic),"Light cardio or yoga, Kegels, Bridges, Pelvic Tilts",Light/Bodyweight,Intermittent Fasting (IF)
+78,Glutes,"Squats, Glute Bridges, Donkey Kicks, Hip Thrusts",4 sets x 15-20 reps,Water Fasting (WF)
+79,Upper Body,"Push-ups, Dumbbell Press, Dumbbell Rows, Shoulder Press",4 sets x 15-20 reps,Long Fasting (LF)
+80,Lower Body,"Lunges, Deadlifts, Step-Ups, Glute Bridges",4 sets x 15-20 reps,100% Calorie Diet (1K)
+81,Core & Back,"Planks, Crunches, Russian Twists, Back Extensions",4 sets x 15-20 reps,Intermittent Fasting (IF)
+82,Full-Body,"Burpees, Squats, Push-ups, Deadlifts",4 sets x 15-20 reps,75% Calorie Diet (0.75K)
+83,Glutes,"Hip Thrusts, Glute Bridges, Fire Hydrants, Single-Leg Deadlifts",4 sets x 15-20 reps,50% Calorie Diet (0.5K)
+84,Active Recovery (Core & Pelvic),"Light cardio or yoga, Kegels, Bridges, Pelvic Tilts",Light/Bodyweight,Water Fasting (WF)
