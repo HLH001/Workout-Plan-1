@@ -37,7 +37,6 @@
         #workout-details {
             margin-top: 20px;
         }
-        /* New styles for date and day display */
         .date-container {
             position: absolute;
             right: 20px; /* Adjust this value as needed */
@@ -57,8 +56,8 @@
 <body>
     <!-- Date and Day Display -->
     <div class="date-container">
-        <div class="date">August 28, 2024</div> <!-- Manually update this date -->
-        <div class="day">Wednesday</div> <!-- Manually update this day -->
+        <div class="date" id="current-date">September 2, 2024</div>
+        <div class="day" id="current-day">Monday</div>
     </div>
 
     <div class="container">
@@ -71,6 +70,20 @@
     </div>
 
     <script>
+        const startDate = new Date('2024-09-02'); // Start date (September 2, 2024)
+        const daySelect = document.getElementById("day-select");
+        const currentDateElem = document.getElementById("current-date");
+        const currentDayElem = document.getElementById("current-day");
+
+        // Function to update the displayed date and day
+        function updateDateAndDay(dayNumber) {
+            const date = new Date(startDate);
+            date.setDate(startDate.getDate() + (dayNumber - 1));
+            const options = { year: 'numeric', month: 'long', day: 'numeric', weekday: 'long' };
+            currentDateElem.textContent = date.toLocaleDateString('en-US', options);
+            currentDayElem.textContent = date.toLocaleDateString('en-US', { weekday: 'long' });
+        }
+
         // Function to fetch and parse the JSON file
         async function fetchJSON() {
             try {
@@ -93,12 +106,12 @@
 
             populateDropdown(workoutPlan);
 
-            const daySelect = document.getElementById("day-select");
             daySelect.addEventListener("change", () => {
                 const selectedDay = daySelect.value;
                 const plan = workoutPlan.find(p => p.Day == selectedDay);
                 if (plan) {
                     displayWorkoutDetails(plan);
+                    updateDateAndDay(Number(selectedDay));
                 }
             });
 
