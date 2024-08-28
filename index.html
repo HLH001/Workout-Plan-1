@@ -37,9 +37,30 @@
         #workout-details {
             margin-top: 20px;
         }
+        /* New styles for date and day display */
+        .date-container {
+            position: absolute;
+            right: 20px; /* Adjust this value as needed */
+            top: 20px; /* Adjust this value as needed */
+            text-align: right;
+            color: #fff;
+        }
+        .date-container .date {
+            font-size: 1.5em; /* Slightly bigger size for the date */
+            font-weight: bold;
+        }
+        .date-container .day {
+            font-size: 1em; /* Slightly smaller size for the day */
+        }
     </style>
 </head>
 <body>
+    <!-- Date and Day Display -->
+    <div class="date-container">
+        <div class="date">August 28, 2024</div> <!-- Manually update this date -->
+        <div class="day">Wednesday</div> <!-- Manually update this day -->
+    </div>
+
     <div class="container">
         <h1>12-Week Workout Plan</h1>
         <select id="day-select">
